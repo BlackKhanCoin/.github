@@ -89,10 +89,10 @@
   <section id="how-to-buy">
     <h3>How to Buy</h3>
     <ol>
-      <li>Download a crypto wallet (like MetaMask).</li>
-      <li>Buy ETH and send it to your wallet.</li>
-      <li>Go to Uniswap and connect your wallet.</li>
-      <li>Paste our contract address (coming soon) and swap ETH for BLACKKHAN.</li>
+      <li>Download a crypto wallet (like PhantomWallet).</li>
+      <li>Buy Solana and send it to your wallet.</li>
+      <li>Go to a pumpfun and connect your wallet.</li>
+      <li>Paste our contract address (coming soon) and swap Solana for BLACKKHAN.</li>
     </ol>
   </section>
 
