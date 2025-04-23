@@ -92,7 +92,10 @@
       <li>Download a crypto wallet (like PhantomWallet).</li>
       <li>Buy Solana and send it to your wallet.</li>
       <li>Go to a pumpfun and connect your wallet.</li>
-      <li>Paste our contract address (coming soon) and swap Solana for BLACKKHAN.</li>
+      <li>Paste our contract address (coming soon) and swap Solana for BLACKKHAN.
+      
+      
+  Launching 1pm Est Friday</li>
     </ol>
   </section>
 
@@ -102,7 +105,7 @@
       <li>✅ Launch Website</li>
       <li>✅ Token Deployment</li>
       <li>🔄 Meme Marketing Blitz</li>
-      <li>🔜 Listings on CoinGecko & CoinMarketCap</li>
+      <li>🔜 Listings on PumpFun</li>
       <li>🚀 The Great Ride to Valhalla</li>
     </ul>
   </section>
